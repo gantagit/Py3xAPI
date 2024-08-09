@@ -1,0 +1,3 @@
+
+    def verify(self):
+        pass
