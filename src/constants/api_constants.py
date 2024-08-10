@@ -13,4 +13,4 @@ class APIConstants(object):
         return self.base_url() + "/booking"
 
     def url_put_patch_delete(self, booking_id):
-        return self.url_create_booking() + str(booking_id)
+        return self.url_create_booking() + "/" + str(booking_id)

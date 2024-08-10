@@ -4,40 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49d96310-e3c3-4749-a9f0-947cee395c25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Py3xAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3bb4bde4eefbfd6bd5c0f0e7b8f9c8cf214e648e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a356f07cea334acef77b7def82785e2d78db784" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/b/3bb4bde4eefbfd6bd5c0f0e7b8f9c8cf214e648e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/a/9a356f07cea334acef77b7def82785e2d78db784" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results_crud/20d7263f-aefe-4826-91b1-433efd4a2a6d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results_crud/3a4d4baa-95cd-48db-932c-f140415d9c6b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results_crud/6db3f889-19bb-4d62-94ff-3c1fa0cbb8fe-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results_crud/b09826a7-ddbd-43fd-8f8a-a209499d5efe-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/api_constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/api_request_wrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/common_verification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/payload_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/tests/crud/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/tests/crud/test_create_booking.py" afterDir="false" />
+    <list default="true" id="49d96310-e3c3-4749-a9f0-947cee395c25" name="Changes" comment="Py3xAPI Automation framework from scratch">
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/11465ee1-0a8f-4904-963d-807396775396-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/2cdd2c8a-baba-45ec-9055-5034fea6cf33-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/437e2e20-64be-47d6-aeac-6d65c25a241f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/46119e7d-9f85-49dc-8568-159b65632287-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/4856696b-a777-4262-83a5-84aa5128ee85-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/49c5d897-0ef6-480c-8e0b-c2fbac5119ce-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/500dfa84-e615-48c1-b44f-f59d89154229-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/652000c1-5adc-4858-9e28-343692c6abc1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/71a40c95-39a6-4897-ab44-6bb7c47e2013-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/7cea14e6-ef26-4a87-a6cd-045613bec0a6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/83e14cc5-282f-4d9c-aa1a-313fa6fd3df2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/8657a9cd-b6d8-4620-ba18-9447a8c76c36-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/90b6f81e-609e-4be0-86cb-8fa2dca62dde-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/a2243a35-1c1c-41f2-9cac-a1de6b28ff87-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/acbf815c-2695-434a-991b-4d5194c84e7f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/b812ee93-10c0-483b-8c3a-4637e37b8d66-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/e382d6c4-85eb-4ba1-b330-a21d00beccb4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results_crud/f455c301-c32d-43cf-8131-a831d4965dfa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3bb4bde4eefbfd6bd5c0f0e7b8f9c8cf214e648e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a356f07cea334acef77b7def82785e2d78db784" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/b/3bb4bde4eefbfd6bd5c0f0e7b8f9c8cf214e648e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/a/9a356f07cea334acef77b7def82785e2d78db784" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/api_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/api_constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/api_request_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/api_request_wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/common_verification.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/common_verification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/payload_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/payload_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/tests/crud/test_create_booking.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/tests/crud/test_create_booking.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +54,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1ee17449-211e-4f09-8a48-e60e42e710f0" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2kQioZB2y5C8p9dwFxRcV8CjyQH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -71,7 +74,9 @@
     "Python.api_constants.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -96,9 +101,20 @@
       <option name="presentableId" value="Default" />
       <updated>1723222376669</updated>
     </task>
+    <task id="LOCAL-00001" summary="Py3xAPI Automation framework from scratch">
+      <option name="closed" value="true" />
+      <created>1723224259952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723224259952</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Py3xAPI Automation framework from scratch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Py3xAPI Automation framework from scratch" />
   </component>
 </project>
