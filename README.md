@@ -1,6 +1,7 @@
 # Python API Automation Framework
 
 Hybrid Customer API Automation Framework include the proper folder structure
+![image](https://github.com/user-attachments/assets/2a9d0817-61af-4321-a981-52050660e982)
 
 ### Tech Stack
 - Python 3.12
@@ -12,6 +13,8 @@ Hybrid Customer API Automation Framework include the proper folder structure
 - Parallel Execution - x distribute (xdist)
 
 ### Allure Report
+![image](https://github.com/user-attachments/assets/00953970-0ac0-4d73-805e-0706780f241b)
+
 
 ### How to Install Packages
 
