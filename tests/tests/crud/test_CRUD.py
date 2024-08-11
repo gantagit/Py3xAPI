@@ -2,6 +2,7 @@ import logging
 
 import allure
 import pytest
+import openpyxl
 
 from src.constants.api_constants import APIConstants
 from src.helpers.api_request_wrapper import *
