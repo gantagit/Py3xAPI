@@ -1,3 +1,5 @@
+import logging
+
 import allure
 import pytest
 
@@ -12,29 +14,35 @@ class TestApiRequest(object):
 
     @allure.title("TC#1 Create Booking")
     @allure.description("Test case to verify create booking")
-    @pytest.mark.crud
+    @pytest.mark.positive
     def test_create_booking(self):
+        LOGGER = logging.getLogger(__name__)
         response = post_requests(
             url=APIConstants().url_create_booking(),
+            auth=None,
             headers=Utils().common_headers_json(),
-            payload=payload_create_booking()
+            payload=payload_create_booking(),
+            in_json=False
         )
         booking_id = response.json()["bookingid"]
         verify_http_status_code(response_data=response, expected_data=200)
         verify_response_keys(key=response.json()["booking"]["firstname"], expected_data="Sally")
         verify_response_json_key_not_null(booking_id)
-        return booking_id
+        LOGGER.info(booking_id)
+        # return booking_id
 
-    @allure.title("TC#1 Create Token")
-    @allure.description("Test case to verify create token")
-    @pytest.mark.crud
-    def test_create_token(self):
+    @allure.title("TC#1 Create Booking with no payload")
+    @allure.description("Test case to verify create booking with no payload")
+    @pytest.mark.negative
+    def test_create_booking_no_payload(self):
+        LOGGER = logging.getLogger(__name__)
         response = post_requests(
-            url=APIConstants().url_create_token(),
+            url=APIConstants().url_create_booking(),
+            auth=None,
             headers=Utils().common_headers_json(),
-            payload=payload_create_token()
+            payload={},
+            in_json=False
         )
-        token = response.json()["token"]
-        verify_http_status_code(response_data=response, expected_data=200)
-        verify_response_json_key_not_null(token)
-        return token
+        verify_http_status_code(response_data=response, expected_data=500)
+        # return booking_id
+
