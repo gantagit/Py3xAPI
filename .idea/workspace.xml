@@ -5,84 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49d96310-e3c3-4749-a9f0-947cee395c25" name="Changes" comment="Py3xAPI Automation framework from scratch">
-      <change afterPath="$PROJECT_DIR$/allure-report/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/packages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/timeline.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/export/mail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/categories-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/duration-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/history-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/history.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/retry-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugin/behaviors/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugin/packages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugin/screen-diff/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugin/screen-diff/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/environment.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/executors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/severity.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/suites.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/summary.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results_crud/04ce9223-0c38-415b-b3aa-ddfd76edea40-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results_crud/0dc0ec30-2993-404d-9a9f-51eee2399879-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results_crud/1823a191-d081-438b-a293-43046641e4e7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results_crud/33590838-4324-4aea-8793-aba5616f96a4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results_crud/5001dfea-e053-488e-9463-281db3847f00-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results_crud/5f2d7b18-a887-4cd2-8a5e-214574723173-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results_crud/a7bc23bf-1bda-447c-accf-619339881fea-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results_crud/c69c3245-84d0-49be-b1e3-995d0f1db180-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results_crud/fa383774-2d4d-4572-a040-f8f90bd150fe-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/tests/crud/test_CRUD.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/03dbd811-9e66-4f7f-b668-e024eb44d52b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/11465ee1-0a8f-4904-963d-807396775396-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/19fed020-893c-4dd7-879e-3eb9c7f18ae8-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/2b003e7d-7803-4fae-a4fe-a5536189268d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/2cdd2c8a-baba-45ec-9055-5034fea6cf33-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/437e2e20-64be-47d6-aeac-6d65c25a241f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/46119e7d-9f85-49dc-8568-159b65632287-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/4856696b-a777-4262-83a5-84aa5128ee85-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/49c5d897-0ef6-480c-8e0b-c2fbac5119ce-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/500dfa84-e615-48c1-b44f-f59d89154229-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/652000c1-5adc-4858-9e28-343692c6abc1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/71a40c95-39a6-4897-ab44-6bb7c47e2013-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/7cea14e6-ef26-4a87-a6cd-045613bec0a6-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/83e14cc5-282f-4d9c-aa1a-313fa6fd3df2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/8657a9cd-b6d8-4620-ba18-9447a8c76c36-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/90b6f81e-609e-4be0-86cb-8fa2dca62dde-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/a2243a35-1c1c-41f2-9cac-a1de6b28ff87-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/a39b846e-0fb2-452b-85ad-5aac0afaa6ce-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/acbf815c-2695-434a-991b-4d5194c84e7f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/b812ee93-10c0-483b-8c3a-4637e37b8d66-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/e382d6c4-85eb-4ba1-b330-a21d00beccb4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/e5037189-901d-4d39-9197-ba83e865f09f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results_crud/f455c301-c32d-43cf-8131-a831d4965dfa-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/api_request_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/api_request_wrapper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/payload_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/payload_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/tests/crud/test_create_booking.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/tests/crud/test_create_booking.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,8 +89,27 @@
       <option name="project" value="LOCAL" />
       <updated>1723313066627</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Py3xAPI Automation framework from scratch">
+      <option name="closed" value="true" />
+      <created>1723343882088</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723343882088</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

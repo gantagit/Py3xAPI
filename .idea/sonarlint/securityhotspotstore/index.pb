@@ -196,3 +196,9 @@ t
 Dallure_results_crud/1823a191-d081-438b-a293-43046641e4e7-result.json,f\3\f3927735da6fb7e750f18afae7a564201834dd34
 t
 Dallure_results_crud/33590838-4324-4aea-8793-aba5616f96a4-result.json,4\5\45514d4df84ab5a4709d48c2299e8f2445bc4dba
+E
+05-Aug-2024-Home task,0\8\08eb49c4e6ecead136871d31ef61985ad736d22a
+H
+05-Aug-2024-Home Task.mg,a\8\a8c55c5e6224afd784c8c0b17d1417a6f1896f06
+H
+05-Aug-2024-Home Task.md,9\6\964eb289449e72036567c79871b6248f2cb8fe84
